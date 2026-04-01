@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Uncover-Fitness/uncover/main/frontend/public/images/logo-3d.png" alt="Uncover Fitness" width="140" />
+  <img src="https://raw.githubusercontent.com/Uncover-Fitness/.github/main/assets/logo-3d.png" alt="Uncover Fitness" width="140" />
 </p>
 
 <h1 align="center">Our Vision</h1>
